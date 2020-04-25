@@ -2,9 +2,7 @@
 
 Max for Live plugin to play MIDI instruments with your voice.
 
-The goal of this plugin is to help anybody play any instrument without having to spend several years learning how to play it.
-
-Instead, you'll only need lo-fi voice recordings and virtual MIDI instruments to be able to play anything you want.
+The goal of this plugin is to help anybody play any instrument without having to spend several years learning how to play it. Instead, you'll only need lo-fi voice recordings and virtual MIDI instruments to be able to play anything you want.
 
 ## How it works
 
